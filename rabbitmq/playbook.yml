@@ -10,7 +10,7 @@
       service: name=ntpd state=restarted
 
   roles:
-    - ansible-role-repo-epel
-    - ansible-role-rabbitmq
+    - epel-repo
+    - rabbitmq
 
 
