@@ -1,0 +1,6 @@
+[submodule "ansible-role-rabbitmq"]
+	path = ansible-role-rabbitmq
+	url = ./rabittmq/ansible-role-rabbitmq
+[submodule "ansible-role-repo-epel"]
+	path = ansible-role-repo-epel
+	url = ./rabittmq/ansible-role-repo-epel
